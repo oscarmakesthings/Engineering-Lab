@@ -1,0 +1,25 @@
+[[presets]]
+name = "classic"
+blocks = [
+  { label = "Focus", minutes = 25 },
+  { label = "Short Break", minutes = 5 },
+  { label = "Focus", minutes = 25 },
+  { label = "Long Break", minutes = 15 }
+]
+
+[[presets]]
+name = "deep-work"
+blocks = [
+  { label = "Deep Work", minutes = 50 },
+  { label = "Recovery", minutes = 10 },
+  { label = "Deep Work", minutes = 50 },
+  { label = "Reset", minutes = 20 }
+]
+
+[[presets]]
+name = "study-sprint"
+blocks = [
+  { label = "Study", minutes = 40 },
+  { label = "Move", minutes = 10 },
+  { label = "Review", minutes = 20 }
+]
